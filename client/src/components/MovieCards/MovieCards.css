@@ -1,0 +1,15 @@
+.card {
+  max-width: 180px;
+  border: 20px solid #12421c;
+  background-color: #214923;
+  cursor: pointer;
+}
+.card img {
+  max-width: 180px;
+  object-fit: contain;
+}
+
+.card:hover {
+  border: 20px solid #37b141;
+  background-color: #143b1b;
+}
